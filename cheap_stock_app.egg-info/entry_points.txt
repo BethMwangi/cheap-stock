@@ -1,4 +1,4 @@
 
         [console_scripts]
-        stock-app=stock:cli
+        stock-app=docopt_config:cmd
     

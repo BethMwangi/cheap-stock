@@ -10,5 +10,7 @@ url = "https://focusmobile-interview-materials.s3.eu-west-3.amazonaws.com/Cheap.
 response = urlopen(url)
 cr = csv.reader(io.TextIOWrapper(response, encoding = 'utf-8'), delimiter=',')
 
-for row in cr:
-    print(row)
+# for row in cr:
+#     print(row)
+
+# insert data to db

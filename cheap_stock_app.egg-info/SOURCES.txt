@@ -1,4 +1,5 @@
 README.md
+docopt_config.py
 setup.py
 cheap_stock_app.egg-info/PKG-INFO
 cheap_stock_app.egg-info/SOURCES.txt
