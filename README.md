@@ -30,6 +30,7 @@ $ cd cheap-stock
 $ . venv/bin/activate
 $ pip3 install -r requirements.txt
 $ pip3 install --editable .
+$ python3 docopt_config.py
 
 ```
 
