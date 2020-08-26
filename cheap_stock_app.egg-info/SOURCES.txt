@@ -1,0 +1,8 @@
+README.md
+setup.py
+cheap_stock_app.egg-info/PKG-INFO
+cheap_stock_app.egg-info/SOURCES.txt
+cheap_stock_app.egg-info/dependency_links.txt
+cheap_stock_app.egg-info/entry_points.txt
+cheap_stock_app.egg-info/requires.txt
+cheap_stock_app.egg-info/top_level.txt
